@@ -1,5 +1,6 @@
 
 # My awesome-random!!
+
 ## Welcome 
 A not so curated and random list of amazingly awesome awesomeness.
 
@@ -88,6 +89,7 @@ Firefox has a great set of first issues to start learning how to work with their
 - [Property Graph - Gremlin](http://kelvinlawrence.net/book/Gremlin-Graph-Guide.html#whygraph) 
 
 ## Books
+- [12 Rules for Life](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021) - self-help book by peter jordanson
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 - [Don't Make Me Think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 - [Algorithm Design Manual](http://www.algorist.com/) - Awesome collection of classic algorithms
